@@ -118,7 +118,7 @@ User - {}"""
     FILE_CAPTION = """<b>{file_name}\n\n𝖩𝗈𝗂𝗇👉 「<a href="https://t.me/kA15Rockers">𝗞𝗔𝟭𝟱𝗥𝗼𝗰𝗸𝗲𝗿𝘀</a>」</b>"""
     
 
-    ALRT_TXT = """ᴊᴀʟᴅɪ ʏᴇʜᴀ sᴇ ʜᴀᴛᴏ !"""
+    ALRT_TXT = """ಈ ಮೂವಿ ರಿಕ್ವೆಸ್ಟ್ ನಿಂದು ಅಲ್ಲ ಬಂಗಾರ 🫶❤️ !"""
 
     OLD_ALRT_TXT = """ʏᴏᴜ ᴀʀᴇ ᴜsɪɴɢ ᴍʏ ᴏʟᴅ ᴍᴇssᴀɢᴇs..sᴇɴᴅ ᴀ ɴᴇᴡ ʀᴇǫᴜᴇsᴛ.."""
 
