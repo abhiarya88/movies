@@ -349,9 +349,9 @@ developer : Abhi Naik
 </b>""" 
     GROUP_C_TEXT = """<b><blockquote>
  --------------Set Verify-------------
-/set_verify {website link} {website api}
-/set_verify_2 {website link} {website api}
-/set_verify_3 {website link} {website api}
+/set_verify {shortxlinks.in} {639dc3a26d626c20a287aed9e3683c7a0a3cc160}
+/set_verify_2 {modijiurl.com} {f3de8cf18ee2173bb17d2c847714d2e3874ca5be}
+/set_verify_3 {{shortxlinks.in} {639dc3a26d626c20a287aed9e3683c7a0a3cc160}
 -------------Set Verify Time-----------
 /set_time_2 {seconds} Sᴇᴛ ᴛʜᴇ sᴇᴄᴏɴᴅ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ ᴛɪᴍᴇ
 /set_time_3 {seconds} Sᴇᴛ ᴛʜᴇ ᴛʜɪʀᴅ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ ᴛɪᴍᴇ
