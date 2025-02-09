@@ -118,7 +118,7 @@ User - {}"""
     FILE_CAPTION = """<b>{file_name}\n\n𝖩𝗈𝗂𝗇👉 「<a href="https://t.me/kA15Rockers">𝗞𝗔𝟭𝟱𝗥𝗼𝗰𝗸𝗲𝗿𝘀</a>」</b>"""
     
 
-    ALRT_TXT = """THIS IS NOT YOUR REQUEST BABY !"""
+    ALRT_TXT = """ᴊᴀʟᴅɪ ʏᴇʜᴀ sᴇ ʜᴀᴛᴏ !"""
 
     OLD_ALRT_TXT = """ʏᴏᴜ ᴀʀᴇ ᴜsɪɴɢ ᴍʏ ᴏʟᴅ ᴍᴇssᴀɢᴇs..sᴇɴᴅ ᴀ ɴᴇᴡ ʀᴇǫᴜᴇsᴛ.."""
 
